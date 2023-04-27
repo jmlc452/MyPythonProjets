@@ -1,4 +1,4 @@
-# Beginner Projects
+# My Projects and practice
 
 A couple of beginner projects here, listed from easiest to hardest :)
 
